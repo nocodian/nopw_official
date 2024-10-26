@@ -1,3 +1,8 @@
+// hello world
+function hello() {
+  console.log("No session ID found.");
+}
+
 // Function to set a cookie
 function setCookie(name, value, days) {
   let expires = "";
