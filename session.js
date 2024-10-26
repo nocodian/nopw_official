@@ -39,7 +39,7 @@ function handleSessionCookie() {
     if (existingSessionId) {
       console.log("Existing session ID found:", existingSessionId);
     } else {
-      console.log("No session ID found");
+      console.log("No session ID found.");
     }
   }
 }
